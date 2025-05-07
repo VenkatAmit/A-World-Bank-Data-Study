@@ -114,15 +114,15 @@ Strengthen financial stability through enhanced monitoring of non-performing loa
 
 Required Libraries:
 
-pandas
-numpy
-scikit-learn
-tensorflow
-xgboost
-matplotlib
-seaborn
-plotly
-scipy
+pandas,
+numpy,
+scikit-learn,
+tensorflow,
+xgboost,
+matplotlib,
+seaborn,
+plotly,
+scipy,
 shap
 
 Future Work:
