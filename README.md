@@ -7,9 +7,9 @@ This repository contains the code, data, and documentation for a comprehensive a
 
 Authors: 
 
-Venkat Amit Kommineni
-Rahul Preetham Roshan Parasa
-Bala Rama Murthy Raju Vemanamanda
+Venkat Amit Kommineni,
+Rahul Preetham Roshan Parasa,
+Bala Rama Murthy Raju Vemanamanda,
 Venkata Sai Akshith Kumar Bathula
 
 Research Objectives:
