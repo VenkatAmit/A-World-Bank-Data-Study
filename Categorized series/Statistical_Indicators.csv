@@ -1,0 +1,100 @@
+Series Name,Source File(s),Category
+Age dependency ratio (% of working-age population),WDI,Statistical_Indicators
+"Age dependency ratio, old (% of working-age population)",WDI,Statistical_Indicators
+"Age dependency ratio, young (% of working-age population)",WDI,Statistical_Indicators
+Agriculture census (Availability score over 20 years),SPI,Statistical_Indicators
+Agriculture survey (Availability score over 10 years),SPI,Statistical_Indicators
+Arms exports (SIPRI trend indicator values),WDI,Statistical_Indicators
+Arms imports (SIPRI trend indicator values),WDI,Statistical_Indicators
+Availability of Comparable Poverty headcount ratio at $2.15 a day (5 year moving average),SPI,Statistical_Indicators
+"Availability of Mortality rate, under-5 (per 1,000 live births) data meeting quality standards according to UN IGME  (5 year moving average)",SPI,Statistical_Indicators
+B-READY: Business Entry Pillar 3: Operational Efficiency of Business Entry,WDI,Statistical_Indicators
+B-READY: Business Entry: Overall Score,WDI,Statistical_Indicators
+B-READY: Business Insolvency Pillar 2: Quality of Institutional and Operational Infrastructure for Judicial Insolvency Proceedings,WDI,Statistical_Indicators
+B-READY: Business Insolvency Pillar 3: Operational Efficiency of Resolving Judicial Insolvency Proceedings,WDI,Statistical_Indicators
+B-READY: Business Insolvency: Overall Score,WDI,Statistical_Indicators
+B-READY: Business Location Pillar 3: Operational Efficiency of Establishing a Business Location,WDI,Statistical_Indicators
+B-READY: Business Location: Overall Score,WDI,Statistical_Indicators
+B-READY: Dispute Resolution: Overall Score,WDI,Statistical_Indicators
+B-READY: Labor Pillar 3: Operational Efficiency of Labor Regulations and Public Services in Practice,WDI,Statistical_Indicators
+B-READY: Labor: Overall Score,WDI,Statistical_Indicators
+B-READY: Pillar 3: Operational Efficiency,WDI,Statistical_Indicators
+B-READY: Taxation Pillar 3: Operational Efficiency of Tax Systems in Practice,WDI,Statistical_Indicators
+B-READY: Taxation: Overall Score,WDI,Statistical_Indicators
+B-READY: Utility Services Pillar 3: Operational Efficiency of Utility Service Provision,WDI,Statistical_Indicators
+B-READY: Utility Services: Overall Score,WDI,Statistical_Indicators
+Business/establishment census (Availability score over 20 years),SPI,Statistical_Indicators
+Business/establishment survey (Availability score over 10 years),SPI,Statistical_Indicators
+CPIA quality of public administration rating (1=low to 6=high),WDI,Statistical_Indicators
+Completeness of birth registration (%),WDI,Statistical_Indicators
+Completeness of death registration with cause-of-death information (%),WDI,Statistical_Indicators
+"Compulsory education, duration (years)",WDI,Statistical_Indicators
+Consumer price index (2010 = 100),WDI,Statistical_Indicators
+Crop production index (2014-2016 = 100),WDI,Statistical_Indicators
+Dimension 2.2: Online access - Download Options Score,SPI,Statistical_Indicators
+Dimension 2.2: Online access - Machine Readability Score,SPI,Statistical_Indicators
+Dimension 2.2: Online access - Metadata Available Score,SPI,Statistical_Indicators
+Dimension 2.2: Online access - Non-Proprietary format Score,SPI,Statistical_Indicators
+Dimension 2.2: Online access - Terms of Use Score,SPI,Statistical_Indicators
+Dimension 3.2: Economic Statistics,SPI,Statistical_Indicators
+Dimension 3.3: Environmental Statistics,SPI,Statistical_Indicators
+Dimension 3.4: Institutional Statistics,SPI,Statistical_Indicators
+Dimension 4.1: Censuses and Surveys - Censuses only,SPI,Statistical_Indicators
+Dimension 4.1: Censuses and Surveys - Surveys only,SPI,Statistical_Indicators
+Disaster risk reduction progress score (1-5 scale; 5=best),WDI,Statistical_Indicators
+Export unit value index (2015 = 100),WDI,Statistical_Indicators
+Export value index (2015 = 100),WDI,Statistical_Indicators
+Export volume index (2015 = 100),WDI,Statistical_Indicators
+Firms formally registered when operations started (% of firms),WDI,Statistical_Indicators
+Food production index (2014-2016 = 100),WDI,Statistical_Indicators
+Gini index,WDI,Statistical_Indicators
+"Grants, excluding technical cooperation (BoP, current US$)",WDI,Statistical_Indicators
+"Gross intake ratio in first grade of primary education, total (% of relevant age group)",WDI,Statistical_Indicators
+Health/Demographic survey (Availability score over 10 years),SPI,Statistical_Indicators
+"Household Survey on income, etc  (Availability score over 10 years)",SPI,Statistical_Indicators
+IDA resource allocation index (1=low to 6=high),WDI,Statistical_Indicators
+Import unit value index (2015 = 100),WDI,Statistical_Indicators
+Import value index (2015 = 100),WDI,Statistical_Indicators
+Import volume index (2015 = 100),WDI,Statistical_Indicators
+Labor Force Survey (Availability score over 10 years),SPI,Statistical_Indicators
+Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,SPI,Statistical_Indicators
+Liner shipping connectivity index (maximum value in 2004 = 100),WDI,Statistical_Indicators
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high),WDI,Statistical_Indicators
+Logistics performance index: Competence and quality of logistics services (1=low to 5=high),WDI,Statistical_Indicators
+Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),WDI,Statistical_Indicators
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),WDI,Statistical_Indicators
+Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),WDI,Statistical_Indicators
+Logistics performance index: Overall (1=low to 5=high),WDI,Statistical_Indicators
+Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),WDI,Statistical_Indicators
+NADA metadata,SPI,Statistical_Indicators
+Net barter terms of trade index (2015 = 100),WDI,Statistical_Indicators
+Net migration,WDI,Statistical_Indicators
+"New business density (new registrations per 1,000 people ages 15-64)",WDI,Statistical_Indicators
+ODIN Open Data Openness score,SPI,Statistical_Indicators
+Pillar 1 - Data Use - Score,SPI,Statistical_Indicators
+Pillar 2 - Data Services - Score,SPI,Statistical_Indicators
+Pillar 3 - Data Products - Score,SPI,Statistical_Indicators
+Pillar 4 - Data Sources - Score,SPI,Statistical_Indicators
+Pillar 5 - Data Infrastructure - Score,SPI,Statistical_Indicators
+Population & Housing census (Availability score over 20 years),SPI,Statistical_Indicators
+"Preprimary education, duration (years)",WDI,Statistical_Indicators
+"Primary education, duration (years)",WDI,Statistical_Indicators
+"Pupil-teacher ratio, lower secondary",WDI,Statistical_Indicators
+"Pupil-teacher ratio, preprimary",WDI,Statistical_Indicators
+"Pupil-teacher ratio, primary",WDI,Statistical_Indicators
+"Pupil-teacher ratio, secondary",WDI,Statistical_Indicators
+"Pupil-teacher ratio, tertiary",WDI,Statistical_Indicators
+"Pupil-teacher ratio, upper secondary",WDI,Statistical_Indicators
+Real effective exchange rate index (2010 = 100),WDI,Statistical_Indicators
+SPI Overall Score,SPI,Statistical_Indicators
+"Secondary education, duration (years)",WDI,Statistical_Indicators
+Statistical performance indicators (SPI): Overall score (scale 0-100),WDI,Statistical_Indicators
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),WDI,Statistical_Indicators
+Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),WDI,Statistical_Indicators
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),WDI,Statistical_Indicators
+Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),WDI,Statistical_Indicators
+Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),WDI,Statistical_Indicators
+"Technical cooperation grants (BoP, current US$)",WDI,Statistical_Indicators
+UHC service coverage index,WDI,Statistical_Indicators
+Wholesale price index (2010 = 100),WDI,Statistical_Indicators
+Women Business and the Law Index Score (scale 1-100),WDI,Statistical_Indicators
