@@ -1,0 +1,335 @@
+Series Name,Source File(s),Category
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",WDI,Financial_Indicators
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",WDI,Financial_Indicators
+"Adjusted net savings, excluding particulate emission damage (current US$)",WDI,Financial_Indicators
+"Adjusted net savings, including particulate emission damage (current US$)",WDI,Financial_Indicators
+Adjusted savings: carbon dioxide damage (current US$),WDI,Financial_Indicators
+Adjusted savings: consumption of fixed capital (current US$),WDI,Financial_Indicators
+Adjusted savings: energy depletion (current US$),WDI,Financial_Indicators
+Adjusted savings: mineral depletion (current US$),WDI,Financial_Indicators
+Adjusted savings: net forest depletion (current US$),WDI,Financial_Indicators
+Adjusted savings: particulate emission damage (current US$),WDI,Financial_Indicators
+"Automated teller machines (ATMs) (per 100,000 adults)",WDI,Financial_Indicators
+Average transaction cost of sending remittances from a specific country (%),WDI,Financial_Indicators
+Average transaction cost of sending remittances to a specific country (%),WDI,Financial_Indicators
+B-READY: Financial Services Pillar 1: Quality of Regulations for Financial Services,WDI,Financial_Indicators
+B-READY: Financial Services Pillar 2: Accessibility of Information in Credit Infrastructure,WDI,Financial_Indicators
+B-READY: Financial Services Pillar 3: Operational Efficiency of Receiving Financial Services,WDI,Financial_Indicators
+B-READY: Financial Services: Overall Score,WDI,Financial_Indicators
+B-READY: Market Competition Pillar 1: Quality of Regulations that Promote Market Competition,WDI,Financial_Indicators
+B-READY: Market Competition Pillar 2: Public Services that Promote Market Competition,WDI,Financial_Indicators
+B-READY: Market Competition Pillar 3:  Implementation of Key Services Promoting Market Competition,WDI,Financial_Indicators
+B-READY: Market Competition: Overall Score,WDI,Financial_Indicators
+Bank capital to assets ratio (%),WDI,Financial_Indicators
+Bank liquid reserves to bank assets ratio (%),WDI,Financial_Indicators
+Bank nonperforming loans to total gross loans (%),WDI,Financial_Indicators
+Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),WDI,Financial_Indicators
+"Borrowers from commercial banks (per 1,000 adults)",WDI,Financial_Indicators
+"Bound rate, simple mean, all products (%)",WDI,Financial_Indicators
+"Bound rate, simple mean, manufactured products (%)",WDI,Financial_Indicators
+"Bound rate, simple mean, primary products (%)",WDI,Financial_Indicators
+Broad money (% of GDP),WDI,Financial_Indicators
+Broad money (current LCU),WDI,Financial_Indicators
+Broad money growth (annual %),WDI,Financial_Indicators
+Broad money to total reserves ratio,WDI,Financial_Indicators
+CPIA financial sector rating (1=low to 6=high),WDI,Financial_Indicators
+CPIA quality of budgetary and financial management rating (1=low to 6=high),WDI,Financial_Indicators
+"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",WDI,Financial_Indicators
+Central government accounting status,SPI,Financial_Indicators
+Claims on central government (annual growth as % of broad money),WDI,Financial_Indicators
+Claims on private sector (annual growth as % of broad money),WDI,Financial_Indicators
+"Commercial bank branches (per 100,000 adults)",WDI,Financial_Indicators
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",WDI,Financial_Indicators
+Compensation of employees (% of expense),WDI,Financial_Indicators
+Compilation of government finance statistics,SPI,Financial_Indicators
+Compilation of monetary and financial statistics,SPI,Financial_Indicators
+Current account balance (% of GDP),WDI,Financial_Indicators
+"Current account balance (BoP, current US$)",WDI,Financial_Indicators
+Deposit interest rate (%),WDI,Financial_Indicators
+"Depositors with commercial banks (per 1,000 adults)",WDI,Financial_Indicators
+Dimension 5.5: Finance,SPI,Financial_Indicators
+Domestic credit provided by financial sector (% of GDP),WDI,Financial_Indicators
+Domestic credit to private sector (% of GDP),WDI,Financial_Indicators
+Domestic credit to private sector by banks (% of GDP),WDI,Financial_Indicators
+Expense (% of GDP),WDI,Financial_Indicators
+Expense (current LCU),WDI,Financial_Indicators
+External debt stocks (% of GNI),WDI,Financial_Indicators
+"External debt stocks, long-term (DOD, current US$)",WDI,Financial_Indicators
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",WDI,Financial_Indicators
+"External debt stocks, short-term (DOD, current US$)",WDI,Financial_Indicators
+"External debt stocks, total (DOD, current US$)",WDI,Financial_Indicators
+Finance Indicator based on PARIS21 indicators on SDG 17.18.3 & SDG 17.19.1,SPI,Financial_Indicators
+Financial intermediary services indirectly Measured (FISIM) (constant LCU),WDI,Financial_Indicators
+Financial intermediary services indirectly Measured (FISIM) (current LCU),WDI,Financial_Indicators
+Firms using banks to finance investment (% of firms),WDI,Financial_Indicators
+Firms using banks to finance working capital (% of firms),WDI,Financial_Indicators
+"Foreign direct investment, net (BoP, current US$)",WDI,Financial_Indicators
+"Foreign direct investment, net inflows (% of GDP)",WDI,Financial_Indicators
+"Foreign direct investment, net inflows (BoP, current US$)",WDI,Financial_Indicators
+"Foreign direct investment, net outflows (% of GDP)",WDI,Financial_Indicators
+"Foreign direct investment, net outflows (BoP, current US$)",WDI,Financial_Indicators
+Goods and services expense (% of expense),WDI,Financial_Indicators
+Goods and services expense (current LCU),WDI,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Domestic creditors, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Domestic creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, External creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Domestic creditors, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Domestic creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, External creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., All maturities, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Short-term, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov., Short-term, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Domestic creditors, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Domestic creditors, Nominal Value, National Currency",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Domestic creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, External creditors, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, External creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, National Currency",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Debt Securities, Market value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Special Drawing Rights, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Domestic creditors, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Domestic creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, External creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, Debt Securities, Market value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, Debt Securities, Market value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., All maturities, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Short-term, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov., Short-term, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Domestic creditors, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Domestic creditors, Nominal Value, National Currency",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Domestic creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, External creditors, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, External creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, National Currency",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Debt Securities, Market value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Special Drawing Rights, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, All instruments, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Currency and deposits, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Loans, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Other accounts payable, Nominal Value, % of GDP",QPSD,Financial_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, All maturities, All instruments, Domestic creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, All maturities, All instruments, External creditors, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, All maturities, Debt Securities, Market value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, All maturities, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, All maturities, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Long-term, With payment due in more than one year, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Long-term, With payment due in one year or less, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Short-term, Loans, Nominal Value, US$",QPSD,Financial_Indicators
+"Gross PSD, Total, Short-term, Other accounts payable, Nominal Value, US$",QPSD,Financial_Indicators
+Gross capital formation (% of GDP),WDI,Financial_Indicators
+Gross capital formation (annual % growth),WDI,Financial_Indicators
+Gross capital formation (constant 2015 US$),WDI,Financial_Indicators
+Gross capital formation (constant LCU),WDI,Financial_Indicators
+Gross capital formation (current LCU),WDI,Financial_Indicators
+Gross capital formation (current US$),WDI,Financial_Indicators
+Gross domestic savings (current LCU),WDI,Financial_Indicators
+Gross domestic savings (current US$),WDI,Financial_Indicators
+Gross fixed capital formation (% of GDP),WDI,Financial_Indicators
+Gross fixed capital formation (annual % growth),WDI,Financial_Indicators
+Gross fixed capital formation (constant 2015 US$),WDI,Financial_Indicators
+Gross fixed capital formation (constant LCU),WDI,Financial_Indicators
+Gross fixed capital formation (current LCU),WDI,Financial_Indicators
+Gross fixed capital formation (current US$),WDI,Financial_Indicators
+"Gross fixed capital formation, private sector (% of GDP)",WDI,Financial_Indicators
+"Gross fixed capital formation, private sector (current LCU)",WDI,Financial_Indicators
+Gross savings (current LCU),WDI,Financial_Indicators
+Gross savings (current US$),WDI,Financial_Indicators
+Human capital index (HCI) (scale 0-1),WDI,Financial_Indicators
+"Human capital index (HCI), lower bound (scale 0-1)",WDI,Financial_Indicators
+"Human capital index (HCI), upper bound (scale 0-1)",WDI,Financial_Indicators
+"IBRD loans and IDA credits (DOD, current US$)",WDI,Financial_Indicators
+Insurance and financial services (% of commercial service exports),WDI,Financial_Indicators
+Insurance and financial services (% of commercial service imports),WDI,Financial_Indicators
+"Insurance and financial services (% of service exports, BoP)",WDI,Financial_Indicators
+"Insurance and financial services (% of service imports, BoP)",WDI,Financial_Indicators
+Interest payments (% of expense),WDI,Financial_Indicators
+Interest payments (% of revenue),WDI,Financial_Indicators
+Interest payments (current LCU),WDI,Financial_Indicators
+"Interest rate spread (lending rate minus deposit rate, %)",WDI,Financial_Indicators
+Investment in ICT with private participation (current US$),WDI,Financial_Indicators
+Investment in energy with private participation (current US$),WDI,Financial_Indicators
+Investment in transport with private participation (current US$),WDI,Financial_Indicators
+Lending interest rate (%),WDI,Financial_Indicators
+Lifetime risk of maternal death (1 in: rate varies by country),WDI,Financial_Indicators
+Livestock production index (2014-2016 = 100),WDI,Financial_Indicators
+"Lower secondary completion rate, male (% of relevant age group)",WDI,Financial_Indicators
+"Lower secondary completion rate, total (% of relevant age group)",WDI,Financial_Indicators
+Market capitalization of listed domestic companies (% of GDP),WDI,Financial_Indicators
+Market capitalization of listed domestic companies (current US$),WDI,Financial_Indicators
+Monetary Sector credit to private sector (% GDP),WDI,Financial_Indicators
+National Accounts base year,SPI,Financial_Indicators
+Net ODA received (% of central government expense),WDI,Financial_Indicators
+Net ODA received (% of gross capital formation),WDI,Financial_Indicators
+Net acquisition of financial assets (% of GDP),WDI,Financial_Indicators
+Net acquisition of financial assets (current LCU),WDI,Financial_Indicators
+"Net capital account (BoP, current US$)",WDI,Financial_Indicators
+Net domestic credit (current LCU),WDI,Financial_Indicators
+"Net financial account (BoP, current US$)",WDI,Financial_Indicators
+"Net financial flows, IBRD (NFL, current US$)",WDI,Financial_Indicators
+"Net financial flows, IDA (NFL, current US$)",WDI,Financial_Indicators
+"Net financial flows, RDB concessional (NFL, current US$)",WDI,Financial_Indicators
+"Net financial flows, RDB nonconcessional (NFL, current US$)",WDI,Financial_Indicators
+"Net financial flows, bilateral (NFL, current US$)",WDI,Financial_Indicators
+"Net financial flows, multilateral (NFL, current US$)",WDI,Financial_Indicators
+"Net financial flows, others (NFL, current US$)",WDI,Financial_Indicators
+Net foreign assets (current LCU),WDI,Financial_Indicators
+Net investment in nonfinancial assets (% of GDP),WDI,Financial_Indicators
+Net investment in nonfinancial assets (current LCU),WDI,Financial_Indicators
+Net lending (+) / net borrowing (-) (% of GDP),WDI,Financial_Indicators
+Net lending (+) / net borrowing (-) (current LCU),WDI,Financial_Indicators
+"Net official flows from UN agencies, SDGFUND (current US$)",WDI,Financial_Indicators
+"Official exchange rate (LCU per US$, period average)",WDI,Financial_Indicators
+Other expense (% of expense),WDI,Financial_Indicators
+Other expense (current LCU),WDI,Financial_Indicators
+"PNG, bonds (NFL, current US$)",WDI,Financial_Indicators
+"PNG, commercial banks and other creditors (NFL, current US$)",WDI,Financial_Indicators
+"PPG, bonds (NFL, current US$)",WDI,Financial_Indicators
+"PPG, commercial banks (NFL, current US$)",WDI,Financial_Indicators
+"PPG, official creditors (NFL, US$)",WDI,Financial_Indicators
+"PPG, other private creditors (NFL, current US$)",WDI,Financial_Indicators
+"PPG, private creditors (NFL, US$)",WDI,Financial_Indicators
+"Personal remittances, paid (current US$)",WDI,Financial_Indicators
+"Personal remittances, received (% of GDP)",WDI,Financial_Indicators
+"Personal remittances, received (current US$)",WDI,Financial_Indicators
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",WDI,Financial_Indicators
+"Portfolio investment, net (BoP, current US$)",WDI,Financial_Indicators
+"Primary completion rate, male (% of relevant age group)",WDI,Financial_Indicators
+"Primary completion rate, total (% of relevant age group)",WDI,Financial_Indicators
+Public private partnerships investment in ICT (current US$),WDI,Financial_Indicators
+Public private partnerships investment in energy (current US$),WDI,Financial_Indicators
+Public private partnerships investment in transport (current US$),WDI,Financial_Indicators
+Quality of Debt service data according to World Bank,SPI,Financial_Indicators
+Real interest rate (%),WDI,Financial_Indicators
+"Risk premium on lending (lending rate minus treasury bill rate, %)",WDI,Financial_Indicators
+"Stocks traded, total value (current US$)",WDI,Financial_Indicators
+"Stocks traded, turnover ratio of domestic shares (%)",WDI,Financial_Indicators
+Subsidies and other transfers (% of expense),WDI,Financial_Indicators
+System of national accounts in use,SPI,Financial_Indicators
+"Tuberculosis case detection rate (%, all forms)",WDI,Financial_Indicators
+Tuberculosis treatment success rate (% of new cases),WDI,Financial_Indicators
+"Use of IMF credit (DOD, current US$)",WDI,Financial_Indicators
+Voice and Accountability: Estimate,WDI,Financial_Indicators
+Voice and Accountability: Number of Sources,WDI,Financial_Indicators
+Voice and Accountability: Percentile Rank,WDI,Financial_Indicators
+"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval",WDI,Financial_Indicators
+"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",WDI,Financial_Indicators
+Voice and Accountability: Standard Error,WDI,Financial_Indicators

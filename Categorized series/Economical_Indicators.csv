@@ -1,0 +1,814 @@
+Series Name,Source File(s),Category
+Adjusted net national income (annual % growth),WDI,Economical_Indicators
+Adjusted net national income (constant 2015 US$),WDI,Economical_Indicators
+Adjusted net national income (current US$),WDI,Economical_Indicators
+Adjusted net national income per capita (annual % growth),WDI,Economical_Indicators
+Adjusted net national income per capita (constant 2015 US$),WDI,Economical_Indicators
+Adjusted net national income per capita (current US$),WDI,Economical_Indicators
+"Adjusted net savings, excluding particulate emission damage (% of GNI)",WDI,Economical_Indicators
+"Adjusted net savings, including particulate emission damage (% of GNI)",WDI,Economical_Indicators
+Adjusted savings: carbon dioxide damage (% of GNI),WDI,Economical_Indicators
+Adjusted savings: consumption of fixed capital (% of GNI),WDI,Economical_Indicators
+Adjusted savings: education expenditure (% of GNI),WDI,Economical_Indicators
+Adjusted savings: education expenditure (current US$),WDI,Economical_Indicators
+Adjusted savings: energy depletion (% of GNI),WDI,Economical_Indicators
+Adjusted savings: gross savings (% of GNI),WDI,Economical_Indicators
+Adjusted savings: mineral depletion (% of GNI),WDI,Economical_Indicators
+Adjusted savings: natural resources depletion (% of GNI),WDI,Economical_Indicators
+Adjusted savings: net forest depletion (% of GNI),WDI,Economical_Indicators
+Adjusted savings: net national savings (% of GNI),WDI,Economical_Indicators
+Adjusted savings: net national savings (current US$),WDI,Economical_Indicators
+Adjusted savings: particulate emission damage (% of GNI),WDI,Economical_Indicators
+Agricultural raw materials exports (% of merchandise exports),WDI,Economical_Indicators
+Agricultural raw materials imports (% of merchandise imports),WDI,Economical_Indicators
+"Agriculture, forestry, and fishing, value added (% of GDP)",WDI,Economical_Indicators
+"Agriculture, forestry, and fishing, value added (annual % growth)",WDI,Economical_Indicators
+"Agriculture, forestry, and fishing, value added (constant 2015 US$)",WDI,Economical_Indicators
+"Agriculture, forestry, and fishing, value added (constant LCU)",WDI,Economical_Indicators
+"Agriculture, forestry, and fishing, value added (current LCU)",WDI,Economical_Indicators
+"Agriculture, forestry, and fishing, value added (current US$)",WDI,Economical_Indicators
+"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",WDI,Economical_Indicators
+"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",WDI,Economical_Indicators
+"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",WDI,Economical_Indicators
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",WDI,Economical_Indicators
+"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",WDI,Economical_Indicators
+Aquaculture production (metric tons),WDI,Economical_Indicators
+Average time to clear exports through customs (days),WDI,Economical_Indicators
+B-READY: Business Entry Pillar 1: Quality of Regulations for Business Entry,WDI,Economical_Indicators
+B-READY: Business Entry Pillar 2: Digital Public Services and Transparency of Information for Business Entry,WDI,Economical_Indicators
+B-READY: Business Insolvency Pillar 1: Quality of Regulations for Judicial Insolvency Proceedings,WDI,Economical_Indicators
+B-READY: Business Location Pillar 1: Quality of Regulations for Business Location,WDI,Economical_Indicators
+B-READY: Business Location Pillar 2: Quality of Public Services and Transparency of Information for Business Location,WDI,Economical_Indicators
+B-READY: Dispute Resolution Pillar 2: Public Services for Dispute Resolution,WDI,Economical_Indicators
+B-READY: International Trade Pillar 1: Quality of Regulations for International Trade,WDI,Economical_Indicators
+B-READY: International Trade Pillar 2: Quality of Public Services for the Facilitation of International Trade,WDI,Economical_Indicators
+"B-READY: International Trade Pillar 3: Efficiency of Importing Goods, Exporting Goods, and Engaging in Digital Trade",WDI,Economical_Indicators
+B-READY: International Trade: Overall Score,WDI,Economical_Indicators
+B-READY: Labor Pillar 2: Adequacy of Public Services for Labor,WDI,Economical_Indicators
+B-READY: Pillar 2: Public Services,WDI,Economical_Indicators
+B-READY: Taxation Pillar 1: Quality of Regulations on Taxation,WDI,Economical_Indicators
+B-READY: Taxation Pillar 2: Public Services Provided by the Tax Administration,WDI,Economical_Indicators
+B-READY: Utility Services Pillar 1: Quality of Regulations on Utility Services,WDI,Economical_Indicators
+B-READY: Utility Services Pillar 2: Quality of Governance and Transparency of Utility Services,WDI,Economical_Indicators
+"Binding coverage, all products (%)",WDI,Economical_Indicators
+"Binding coverage, manufactured products (%)",WDI,Economical_Indicators
+"Binding coverage, primary products (%)",WDI,Economical_Indicators
+Business process,SPI,Economical_Indicators
+CPIA business regulatory environment rating (1=low to 6=high),WDI,Economical_Indicators
+CPIA economic management cluster average (1=low to 6=high),WDI,Economical_Indicators
+CPIA efficiency of revenue mobilization rating (1=low to 6=high),WDI,Economical_Indicators
+CPIA macroeconomic management rating (1=low to 6=high),WDI,Economical_Indicators
+CPIA trade rating (1=low to 6=high),WDI,Economical_Indicators
+Capture fisheries production (metric tons),WDI,Economical_Indicators
+Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),WDI,Economical_Indicators
+Cereal production (metric tons),WDI,Economical_Indicators
+Cereal yield (kg per hectare),WDI,Economical_Indicators
+Chemicals (% of value added in manufacturing),WDI,Economical_Indicators
+"Claims on central government, etc. (% GDP)",WDI,Economical_Indicators
+Claims on other sectors of the domestic economy (% of GDP),WDI,Economical_Indicators
+Claims on other sectors of the domestic economy (annual growth as % of broad money),WDI,Economical_Indicators
+Classification of household consumption,SPI,Economical_Indicators
+Classification of national industry,SPI,Economical_Indicators
+Coal rents (% of GDP),WDI,Economical_Indicators
+Commercial service exports (current US$),WDI,Economical_Indicators
+Commercial service imports (current US$),WDI,Economical_Indicators
+"Communications, computer, etc. (% of service exports, BoP)",WDI,Economical_Indicators
+"Communications, computer, etc. (% of service imports, BoP)",WDI,Economical_Indicators
+"Computer, communications and other services (% of commercial service exports)",WDI,Economical_Indicators
+"Computer, communications and other services (% of commercial service imports)",WDI,Economical_Indicators
+Consumption of iodized salt (% of households),WDI,Economical_Indicators
+"Current education expenditure, primary (% of total expenditure in primary public institutions)",WDI,Economical_Indicators
+"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",WDI,Economical_Indicators
+"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",WDI,Economical_Indicators
+"Current education expenditure, total (% of total expenditure in public institutions)",WDI,Economical_Indicators
+Current health expenditure (% of GDP),WDI,Economical_Indicators
+Current health expenditure per capita (current US$),WDI,Economical_Indicators
+"Current health expenditure per capita, PPP (current international $)",WDI,Economical_Indicators
+Customs and other import duties (% of tax revenue),WDI,Economical_Indicators
+Customs and other import duties (current LCU),WDI,Economical_Indicators
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",WDI,Economical_Indicators
+Dimension 1.5: Data use by international organizations,SPI,Economical_Indicators
+Dimension 2.4: Data services,SPI,Economical_Indicators
+Discrepancy in expenditure estimate of GDP (constant LCU),WDI,Economical_Indicators
+Discrepancy in expenditure estimate of GDP (current LCU),WDI,Economical_Indicators
+Domestic general government health expenditure (% of GDP),WDI,Economical_Indicators
+"Domestic general government health expenditure per capita, PPP (current international $)",WDI,Economical_Indicators
+Domestic private health expenditure (% of current health expenditure),WDI,Economical_Indicators
+Domestic private health expenditure per capita (current US$),WDI,Economical_Indicators
+"Domestic private health expenditure per capita, PPP (current international $)",WDI,Economical_Indicators
+Electric power consumption (kWh per capita),WDI,Economical_Indicators
+Electricity production from coal sources (% of total),WDI,Economical_Indicators
+Electricity production from hydroelectric sources (% of total),WDI,Economical_Indicators
+Electricity production from nuclear sources (% of total),WDI,Economical_Indicators
+Electricity production from oil sources (% of total),WDI,Economical_Indicators
+"Electricity production from oil, gas and coal sources (% of total)",WDI,Economical_Indicators
+"Energy imports, net (% of energy use)",WDI,Economical_Indicators
+Energy intensity level of primary energy (MJ/$2017 PPP GDP),WDI,Economical_Indicators
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",WDI,Economical_Indicators
+Exports as a capacity to import (constant LCU),WDI,Economical_Indicators
+Exports of goods and services (% of GDP),WDI,Economical_Indicators
+"Exports of goods and services (BoP, current US$)",WDI,Economical_Indicators
+Exports of goods and services (annual % growth),WDI,Economical_Indicators
+Exports of goods and services (constant 2015 US$),WDI,Economical_Indicators
+Exports of goods and services (constant LCU),WDI,Economical_Indicators
+Exports of goods and services (current LCU),WDI,Economical_Indicators
+Exports of goods and services (current US$),WDI,Economical_Indicators
+"Exports of goods, services and primary income (BoP, current US$)",WDI,Economical_Indicators
+External balance on goods and services (% of GDP),WDI,Economical_Indicators
+External balance on goods and services (constant LCU),WDI,Economical_Indicators
+External balance on goods and services (current LCU),WDI,Economical_Indicators
+External balance on goods and services (current US$),WDI,Economical_Indicators
+External health expenditure (% of current health expenditure),WDI,Economical_Indicators
+External health expenditure per capita (current US$),WDI,Economical_Indicators
+"External health expenditure per capita, PPP (current international $)",WDI,Economical_Indicators
+Fertilizer consumption (% of fertilizer production),WDI,Economical_Indicators
+Fertilizer consumption (kilograms per hectare of arable land),WDI,Economical_Indicators
+Final consumption expenditure (% of GDP),WDI,Economical_Indicators
+Final consumption expenditure (annual % growth),WDI,Economical_Indicators
+Final consumption expenditure (constant 2015 US$),WDI,Economical_Indicators
+Final consumption expenditure (constant LCU),WDI,Economical_Indicators
+Final consumption expenditure (current LCU),WDI,Economical_Indicators
+Final consumption expenditure (current US$),WDI,Economical_Indicators
+Firms expected to give gifts in meetings with tax officials (% of firms),WDI,Economical_Indicators
+Firms that do not report all sales for tax purposes (% of firms),WDI,Economical_Indicators
+Firms visited or required meetings with tax officials (% of firms),WDI,Economical_Indicators
+Food exports (% of merchandise exports),WDI,Economical_Indicators
+Food imports (% of merchandise imports),WDI,Economical_Indicators
+"Food, beverages and tobacco (% of value added in manufacturing)",WDI,Economical_Indicators
+Forest rents (% of GDP),WDI,Economical_Indicators
+Fuel exports (% of merchandise exports),WDI,Economical_Indicators
+Fuel imports (% of merchandise imports),WDI,Economical_Indicators
+GDP (constant 2015 US$),WDI,Economical_Indicators
+GDP (constant LCU),WDI,Economical_Indicators
+GDP (current LCU),WDI,Economical_Indicators
+GDP (current US$),WDI,Economical_Indicators
+GDP deflator (base year varies by country),WDI,Economical_Indicators
+GDP deflator: linked series (base year varies by country),WDI,Economical_Indicators
+GDP growth (annual %),WDI,Economical_Indicators
+GDP per capita (constant 2015 US$),WDI,Economical_Indicators
+GDP per capita (constant LCU),WDI,Economical_Indicators
+GDP per capita (current LCU),WDI,Economical_Indicators
+GDP per capita (current US$),WDI,Economical_Indicators
+GDP per capita growth (annual %),WDI,Economical_Indicators
+"GDP per capita, PPP (constant 2021 international $)",WDI,Economical_Indicators
+"GDP per capita, PPP (current international $)",WDI,Economical_Indicators
+GDP per person employed (constant 2021 PPP $),WDI,Economical_Indicators
+GDP per unit of energy use (PPP $ per kg of oil equivalent),WDI,Economical_Indicators
+GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),WDI,Economical_Indicators
+"GDP, PPP (constant 2021 international $)",WDI,Economical_Indicators
+"GDP, PPP (current international $)",WDI,Economical_Indicators
+GDP: linked series (current LCU),WDI,Economical_Indicators
+GNI (constant 2015 US$),WDI,Economical_Indicators
+GNI (constant LCU),WDI,Economical_Indicators
+GNI (current LCU),WDI,Economical_Indicators
+GNI (current US$),WDI,Economical_Indicators
+GNI growth (annual %),WDI,Economical_Indicators
+GNI per capita (constant 2015 US$),WDI,Economical_Indicators
+GNI per capita (constant LCU),WDI,Economical_Indicators
+GNI per capita (current LCU),WDI,Economical_Indicators
+GNI per capita growth (annual %),WDI,Economical_Indicators
+"GNI per capita, Atlas method (current US$)",WDI,Economical_Indicators
+"GNI per capita, PPP (constant 2021 international $)",WDI,Economical_Indicators
+"GNI per capita, PPP (current international $)",WDI,Economical_Indicators
+"GNI, Atlas method (current US$)",WDI,Economical_Indicators
+"GNI, PPP (constant 2021 international $)",WDI,Economical_Indicators
+"GNI, PPP (current international $)",WDI,Economical_Indicators
+GNI: linked series (current LCU),WDI,Economical_Indicators
+GOAL 12: Responsible Consumption and Production (5 year moving average),SPI,Economical_Indicators
+GOAL 8: Decent Work and Economic Growth (5 year moving average),SPI,Economical_Indicators
+"GOAL 9: Industry, Innovation and Infrastructure (5 year moving average)",SPI,Economical_Indicators
+General government final consumption expenditure (% of GDP),WDI,Economical_Indicators
+General government final consumption expenditure (annual % growth),WDI,Economical_Indicators
+General government final consumption expenditure (constant 2015 US$),WDI,Economical_Indicators
+General government final consumption expenditure (constant LCU),WDI,Economical_Indicators
+General government final consumption expenditure (current LCU),WDI,Economical_Indicators
+General government final consumption expenditure (current US$),WDI,Economical_Indicators
+"Goods exports (BoP, current US$)",WDI,Economical_Indicators
+"Goods imports (BoP, current US$)",WDI,Economical_Indicators
+"Government expenditure on education, total (% of GDP)",WDI,Economical_Indicators
+"Government expenditure per student, primary (% of GDP per capita)",WDI,Economical_Indicators
+"Government expenditure per student, secondary (% of GDP per capita)",WDI,Economical_Indicators
+"Government expenditure per student, tertiary (% of GDP per capita)",WDI,Economical_Indicators
+Grants and other revenue (% of revenue),WDI,Economical_Indicators
+Grants and other revenue (current LCU),WDI,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Domestic creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Domestic currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Domestic currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Domestic currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, External creditors, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, External creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Foreign currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Foreign currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Foreign currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Debt Securities, Market value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., All maturities, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Budgetary Central Gov., Short-term, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Domestic creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Domestic currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Domestic currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Domestic currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, External creditors, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, External creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Foreign currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Foreign currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Foreign currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Debt Securities, Market value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., All maturities, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov., Short-term, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Central Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Central Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Central Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Domestic currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Domestic currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Domestic currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, External creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Foreign currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Foreign currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Foreign currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., All maturities, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Financial Public Corp., Short-term, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Domestic creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Domestic currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Domestic currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Domestic currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, External creditors, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, External creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Foreign currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Foreign currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Foreign currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Debt Securities, Market value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., All maturities, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov., Short-term, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, General Gov.-D1, All maturities, Debt securities + loans, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov.-D2, All maturities, D1+ SDRs + currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, General Gov.-D2A, All maturities, D1+ currency and deposits, Maastricht debt, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov.-D3, All maturities, D2+other accounts payable, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, General Gov.-D4, All maturities, D3+insurance, pensions, and standardized guarantees, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Domestic currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Domestic currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Domestic currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, External creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Foreign currency, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Foreign currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Foreign currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., All maturities, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, All instruments, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Currency and deposits, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Debt securities, Nominal Value, % of GDP",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Nonfinancial Public Corp., Short-term, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, All instruments, Domestic creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, All instruments, Domestic currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, All instruments, External creditors, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, All instruments, Foreign currency, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, Debt Securities, Market value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, All maturities, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in more than one year, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in more than one year, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in more than one year, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in more than one year, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in more than one year, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in one year or less, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in one year or less, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in one year or less, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in one year or less, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Long-term, With payment due in one year or less, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Short-term, All instruments, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Short-term, Currency and deposits, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Short-term, Debt securities, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Short-term, Insurance, pensions, and standardized guarantee schemes, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Short-term, Loans, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Public Sector, Short-term, Other accounts payable, Nominal Value, National Currency",QPSD,Economical_Indicators
+"Gross PSD, Total, All maturities, All instruments, Domestic currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, All maturities, All instruments, Foreign currency, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, All maturities, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, All maturities, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, All maturities, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, All maturities, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, With payment due in more than one year, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, With payment due in more than one year, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, With payment due in more than one year, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, With payment due in more than one year, Special Drawing Rights, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, With payment due in one year or less, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, With payment due in one year or less, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Long-term, With payment due in one year or less, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Short-term, All instruments, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Short-term, Currency and deposits, Nominal Value, US$",QPSD,Economical_Indicators
+"Gross PSD, Total, Short-term, Debt securities, Nominal Value, US$",QPSD,Economical_Indicators
+Gross domestic income (constant LCU),WDI,Economical_Indicators
+Gross domestic savings (% of GDP),WDI,Economical_Indicators
+Gross national expenditure (% of GDP),WDI,Economical_Indicators
+Gross national expenditure (constant 2015 US$),WDI,Economical_Indicators
+Gross national expenditure (constant LCU),WDI,Economical_Indicators
+Gross national expenditure (current LCU),WDI,Economical_Indicators
+Gross national expenditure (current US$),WDI,Economical_Indicators
+Gross national expenditure deflator (base year varies by country),WDI,Economical_Indicators
+Gross savings (% of GDP),WDI,Economical_Indicators
+Gross savings (% of GNI),WDI,Economical_Indicators
+Gross value added at basic prices (GVA) (constant 2015 US$),WDI,Economical_Indicators
+Gross value added at basic prices (GVA) (constant LCU),WDI,Economical_Indicators
+Gross value added at basic prices (GVA) (current LCU),WDI,Economical_Indicators
+Gross value added at basic prices (GVA) (current US$),WDI,Economical_Indicators
+High-technology exports (% of manufactured exports),WDI,Economical_Indicators
+High-technology exports (current US$),WDI,Economical_Indicators
+Households and NPISHs Final consumption expenditure (annual % growth),WDI,Economical_Indicators
+Households and NPISHs Final consumption expenditure (constant 2015 US$),WDI,Economical_Indicators
+Households and NPISHs Final consumption expenditure (constant LCU),WDI,Economical_Indicators
+Households and NPISHs Final consumption expenditure (current LCU),WDI,Economical_Indicators
+Households and NPISHs Final consumption expenditure (current US$),WDI,Economical_Indicators
+Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),WDI,Economical_Indicators
+Households and NPISHs Final consumption expenditure per capita growth (annual %),WDI,Economical_Indicators
+"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",WDI,Economical_Indicators
+"Households and NPISHs Final consumption expenditure, PPP (current international $)",WDI,Economical_Indicators
+Households and NPISHs final consumption expenditure (% of GDP),WDI,Economical_Indicators
+Households and NPISHs final consumption expenditure: linked series (current LCU),WDI,Economical_Indicators
+ICT goods exports (% of total goods exports),WDI,Economical_Indicators
+ICT goods imports (% total goods imports),WDI,Economical_Indicators
+"ICT service exports (% of service exports, BoP)",WDI,Economical_Indicators
+"ICT service exports (BoP, current US$)",WDI,Economical_Indicators
+Imports of goods and services (% of GDP),WDI,Economical_Indicators
+"Imports of goods and services (BoP, current US$)",WDI,Economical_Indicators
+Imports of goods and services (annual % growth),WDI,Economical_Indicators
+Imports of goods and services (constant 2015 US$),WDI,Economical_Indicators
+Imports of goods and services (constant LCU),WDI,Economical_Indicators
+Imports of goods and services (current LCU),WDI,Economical_Indicators
+Imports of goods and services (current US$),WDI,Economical_Indicators
+"Imports of goods, services and primary income (BoP, current US$)",WDI,Economical_Indicators
+Income share held by fourth 20%,WDI,Economical_Indicators
+Income share held by highest 10%,WDI,Economical_Indicators
+Income share held by highest 20%,WDI,Economical_Indicators
+Income share held by lowest 10%,WDI,Economical_Indicators
+Income share held by lowest 20%,WDI,Economical_Indicators
+Income share held by second 20%,WDI,Economical_Indicators
+Income share held by third 20%,WDI,Economical_Indicators
+"Industry (including construction), value added (% of GDP)",WDI,Economical_Indicators
+"Industry (including construction), value added (annual % growth)",WDI,Economical_Indicators
+"Industry (including construction), value added (constant 2015 US$)",WDI,Economical_Indicators
+"Industry (including construction), value added (constant LCU)",WDI,Economical_Indicators
+"Industry (including construction), value added (current LCU)",WDI,Economical_Indicators
+"Industry (including construction), value added (current US$)",WDI,Economical_Indicators
+"Industry (including construction), value added per worker (constant 2015 US$)",WDI,Economical_Indicators
+"Inflation, GDP deflator (annual %)",WDI,Economical_Indicators
+"Inflation, GDP deflator: linked series (annual %)",WDI,Economical_Indicators
+"Inflation, consumer prices (annual %)",WDI,Economical_Indicators
+"International tourism, expenditures (% of total imports)",WDI,Economical_Indicators
+"International tourism, expenditures (current US$)",WDI,Economical_Indicators
+"International tourism, expenditures for passenger transport items (current US$)",WDI,Economical_Indicators
+"International tourism, expenditures for travel items (current US$)",WDI,Economical_Indicators
+"International tourism, number of arrivals",WDI,Economical_Indicators
+"International tourism, number of departures",WDI,Economical_Indicators
+"International tourism, receipts (% of total exports)",WDI,Economical_Indicators
+"International tourism, receipts (current US$)",WDI,Economical_Indicators
+"International tourism, receipts for passenger transport items (current US$)",WDI,Economical_Indicators
+"International tourism, receipts for travel items (current US$)",WDI,Economical_Indicators
+Land under cereal production (hectares),WDI,Economical_Indicators
+"Lead time to export, median case (days)",WDI,Economical_Indicators
+"Lead time to import, median case (days)",WDI,Economical_Indicators
+Machinery and transport equipment (% of value added in manufacturing),WDI,Economical_Indicators
+Manufactures exports (% of merchandise exports),WDI,Economical_Indicators
+Manufactures imports (% of merchandise imports),WDI,Economical_Indicators
+"Manufacturing, value added (% of GDP)",WDI,Economical_Indicators
+"Manufacturing, value added (annual % growth)",WDI,Economical_Indicators
+"Manufacturing, value added (constant 2015 US$)",WDI,Economical_Indicators
+"Manufacturing, value added (constant LCU)",WDI,Economical_Indicators
+"Manufacturing, value added (current LCU)",WDI,Economical_Indicators
+"Manufacturing, value added (current US$)",WDI,Economical_Indicators
+Medium and high-tech exports (% manufactured exports),WDI,Economical_Indicators
+Medium and high-tech manufacturing value added (% manufacturing value added),WDI,Economical_Indicators
+Merchandise exports (current US$),WDI,Economical_Indicators
+Merchandise exports by the reporting economy (current US$),WDI,Economical_Indicators
+"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",WDI,Economical_Indicators
+Merchandise exports to economies in the Arab World (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to high-income economies (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),WDI,Economical_Indicators
+Merchandise imports (current US$),WDI,Economical_Indicators
+Merchandise imports by the reporting economy (current US$),WDI,Economical_Indicators
+"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",WDI,Economical_Indicators
+Merchandise imports from economies in the Arab World (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from high-income economies (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),WDI,Economical_Indicators
+Merchandise trade (% of GDP),WDI,Economical_Indicators
+Military expenditure (% of GDP),WDI,Economical_Indicators
+Military expenditure (% of general government expenditure),WDI,Economical_Indicators
+Military expenditure (current LCU),WDI,Economical_Indicators
+Military expenditure (current USD),WDI,Economical_Indicators
+Mineral rents (% of GDP),WDI,Economical_Indicators
+Natural gas rents (% of GDP),WDI,Economical_Indicators
+Net ODA provided to the least developed countries (% of GNI),WDI,Economical_Indicators
+"Net ODA provided, total (% of GNI)",WDI,Economical_Indicators
+Net ODA received (% of GNI),WDI,Economical_Indicators
+"Net ODA received (% of imports of goods, services and primary income)",WDI,Economical_Indicators
+"Net incurrence of liabilities, total (% of GDP)",WDI,Economical_Indicators
+"Net primary income (BoP, current US$)",WDI,Economical_Indicators
+Net primary income (Net income from abroad) (constant LCU),WDI,Economical_Indicators
+Net primary income (Net income from abroad) (current LCU),WDI,Economical_Indicators
+Net primary income (Net income from abroad) (current US$),WDI,Economical_Indicators
+"Net secondary income (BoP, current US$)",WDI,Economical_Indicators
+Net secondary income (Net current transfers from abroad) (constant LCU),WDI,Economical_Indicators
+Net secondary income (Net current transfers from abroad) (current LCU),WDI,Economical_Indicators
+Net secondary income (Net current transfers from abroad) (current US$),WDI,Economical_Indicators
+"Net trade in goods (BoP, current US$)",WDI,Economical_Indicators
+"Net trade in goods and services (BoP, current US$)",WDI,Economical_Indicators
+New businesses registered (number),WDI,Economical_Indicators
+Number of visits or required meetings with tax officials (average for affected firms),WDI,Economical_Indicators
+Oil rents (% of GDP),WDI,Economical_Indicators
+Ores and metals exports (% of merchandise exports),WDI,Economical_Indicators
+Ores and metals imports (% of merchandise imports),WDI,Economical_Indicators
+Other manufacturing (% of value added in manufacturing),WDI,Economical_Indicators
+Other people in need of international protection by country or territory of origin,WDI,Economical_Indicators
+Other taxes (% of revenue),WDI,Economical_Indicators
+Other taxes (current LCU),WDI,Economical_Indicators
+Out-of-pocket expenditure (% of current health expenditure),WDI,Economical_Indicators
+Out-of-pocket expenditure per capita (current US$),WDI,Economical_Indicators
+"Out-of-pocket expenditure per capita, PPP (current international $)",WDI,Economical_Indicators
+"PPP conversion factor, GDP (LCU per international $)",WDI,Economical_Indicators
+"PPP conversion factor, private consumption (LCU per international $)",WDI,Economical_Indicators
+Population growth (annual %),WDI,Economical_Indicators
+Poverty gap at $2.15 a day (2017 PPP) (%),WDI,Economical_Indicators
+Poverty gap at $3.65 a day (2017 PPP) (%),WDI,Economical_Indicators
+Poverty gap at $6.85 a day (2017 PPP) (%),WDI,Economical_Indicators
+Present value of external debt (% of GNI),WDI,Economical_Indicators
+"Present value of external debt (% of exports of goods, services and primary income)",WDI,Economical_Indicators
+Price level ratio of PPP conversion factor (GDP) to market exchange rate,WDI,Economical_Indicators
+"Primary income payments (BoP, current US$)",WDI,Economical_Indicators
+"Primary income receipts (BoP, current US$)",WDI,Economical_Indicators
+Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),WDI,Economical_Indicators
+Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%),WDI,Economical_Indicators
+"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",WDI,Economical_Indicators
+Research and development expenditure (% of GDP),WDI,Economical_Indicators
+"Revenue, excluding grants (% of GDP)",WDI,Economical_Indicators
+"Revenue, excluding grants (current LCU)",WDI,Economical_Indicators
+Risk of catastrophic expenditure for surgical care (% of people at risk),WDI,Economical_Indicators
+Risk of impoverishing expenditure for surgical care (% of people at risk),WDI,Economical_Indicators
+"Secondary income receipts (BoP, current US$)",WDI,Economical_Indicators
+"Secondary income, other sectors, payments (BoP, current US$)",WDI,Economical_Indicators
+"Service exports (BoP, current US$)",WDI,Economical_Indicators
+"Service imports (BoP, current US$)",WDI,Economical_Indicators
+"Services, value added (% of GDP)",WDI,Economical_Indicators
+"Services, value added (annual % growth)",WDI,Economical_Indicators
+"Services, value added (constant 2015 US$)",WDI,Economical_Indicators
+"Services, value added (constant LCU)",WDI,Economical_Indicators
+"Services, value added (current LCU)",WDI,Economical_Indicators
+"Services, value added (current US$)",WDI,Economical_Indicators
+"Services, value added per worker (constant 2015 US$)",WDI,Economical_Indicators
+"Share of tariff lines with international peaks, all products (%)",WDI,Economical_Indicators
+"Share of tariff lines with international peaks, manufactured products (%)",WDI,Economical_Indicators
+"Share of tariff lines with international peaks, primary products (%)",WDI,Economical_Indicators
+"Share of tariff lines with specific rates, all products (%)",WDI,Economical_Indicators
+"Share of tariff lines with specific rates, manufactured products (%)",WDI,Economical_Indicators
+"Share of tariff lines with specific rates, primary products (%)",WDI,Economical_Indicators
+"Short-term debt (% of exports of goods, services and primary income)",WDI,Economical_Indicators
+Social contributions (% of revenue),WDI,Economical_Indicators
+"Stocks traded, total value (% of GDP)",WDI,Economical_Indicators
+"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",WDI,Economical_Indicators
+"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",WDI,Economical_Indicators
+"Tariff rate, applied, simple mean, all products (%)",WDI,Economical_Indicators
+"Tariff rate, applied, simple mean, manufactured products (%)",WDI,Economical_Indicators
+"Tariff rate, applied, simple mean, primary products (%)",WDI,Economical_Indicators
+"Tariff rate, applied, weighted mean, all products (%)",WDI,Economical_Indicators
+"Tariff rate, applied, weighted mean, manufactured products (%)",WDI,Economical_Indicators
+"Tariff rate, applied, weighted mean, primary products (%)",WDI,Economical_Indicators
+"Tariff rate, most favored nation, simple mean, all products (%)",WDI,Economical_Indicators
+"Tariff rate, most favored nation, simple mean, manufactured products (%)",WDI,Economical_Indicators
+"Tariff rate, most favored nation, simple mean, primary products (%)",WDI,Economical_Indicators
+"Tariff rate, most favored nation, weighted mean, all products (%)",WDI,Economical_Indicators
+"Tariff rate, most favored nation, weighted mean, manufactured products (%)",WDI,Economical_Indicators
+"Tariff rate, most favored nation, weighted mean, primary products (%)",WDI,Economical_Indicators
+Tax revenue (% of GDP),WDI,Economical_Indicators
+Tax revenue (current LCU),WDI,Economical_Indicators
+Taxes less subsidies on products (constant LCU),WDI,Economical_Indicators
+Taxes less subsidies on products (current LCU),WDI,Economical_Indicators
+Taxes less subsidies on products (current US$),WDI,Economical_Indicators
+Taxes on exports (% of tax revenue),WDI,Economical_Indicators
+Taxes on exports (current LCU),WDI,Economical_Indicators
+Taxes on goods and services (% of revenue),WDI,Economical_Indicators
+Taxes on goods and services (% value added of industry and services),WDI,Economical_Indicators
+Taxes on goods and services (current LCU),WDI,Economical_Indicators
+"Taxes on income, profits and capital gains (% of revenue)",WDI,Economical_Indicators
+"Taxes on income, profits and capital gains (% of total taxes)",WDI,Economical_Indicators
+"Taxes on income, profits and capital gains (current LCU)",WDI,Economical_Indicators
+Taxes on international trade (% of revenue),WDI,Economical_Indicators
+Taxes on international trade (current LCU),WDI,Economical_Indicators
+Terms of trade adjustment (constant LCU),WDI,Economical_Indicators
+Textiles and clothing (% of value added in manufacturing),WDI,Economical_Indicators
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",WDI,Economical_Indicators
+"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",WDI,Economical_Indicators
+Total debt service (% of GNI),WDI,Economical_Indicators
+"Total debt service (% of exports of goods, services and primary income)",WDI,Economical_Indicators
+Total fisheries production (metric tons),WDI,Economical_Indicators
+Total reserves in months of imports,WDI,Economical_Indicators
+Trade (% of GDP),WDI,Economical_Indicators
+Trade in services (% of GDP),WDI,Economical_Indicators
+"Trademark applications, nonresident, by count",WDI,Economical_Indicators
+"Trademark applications, resident, by count",WDI,Economical_Indicators
+Transport services (% of commercial service exports),WDI,Economical_Indicators
+Transport services (% of commercial service imports),WDI,Economical_Indicators
+"Transport services (% of service exports, BoP)",WDI,Economical_Indicators
+"Transport services (% of service imports, BoP)",WDI,Economical_Indicators
+Travel services (% of commercial service exports),WDI,Economical_Indicators
+Travel services (% of commercial service imports),WDI,Economical_Indicators
+"Travel services (% of service exports, BoP)",WDI,Economical_Indicators
+"Travel services (% of service imports, BoP)",WDI,Economical_Indicators
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",WDI,Economical_Indicators

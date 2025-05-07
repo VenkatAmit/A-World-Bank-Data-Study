@@ -1,0 +1,107 @@
+Series Name,Source File(s),Category
+Access to clean fuels and technologies for cooking (% of population),WDI,Environmental_Indicators
+Access to electricity (% of population),WDI,Environmental_Indicators
+Agricultural irrigated land (% of total agricultural land),WDI,Environmental_Indicators
+Agricultural land (% of land area),WDI,Environmental_Indicators
+Agricultural land (sq. km),WDI,Environmental_Indicators
+"Air transport, freight (million ton-km)",WDI,Environmental_Indicators
+"Air transport, passengers carried",WDI,Environmental_Indicators
+"Air transport, registered carrier departures worldwide",WDI,Environmental_Indicators
+Alternative and nuclear energy (% of total energy use),WDI,Environmental_Indicators
+"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",WDI,Environmental_Indicators
+"Annual freshwater withdrawals, total (% of internal resources)",WDI,Environmental_Indicators
+"Annual freshwater withdrawals, total (billion cubic meters)",WDI,Environmental_Indicators
+Arable land (% of land area),WDI,Environmental_Indicators
+Arable land (hectares per person),WDI,Environmental_Indicators
+Arable land (hectares),WDI,Environmental_Indicators
+"Bird species, threatened",WDI,Environmental_Indicators
+CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) emissions from Waste (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),WDI,Environmental_Indicators
+Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),WDI,Environmental_Indicators
+Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),WDI,Environmental_Indicators
+Combustible renewables and waste (% of total energy),WDI,Environmental_Indicators
+Electricity production from natural gas sources (% of total),WDI,Environmental_Indicators
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",WDI,Environmental_Indicators
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",WDI,Environmental_Indicators
+Energy use (kg of oil equivalent per capita),WDI,Environmental_Indicators
+F-gases emissions from Industrial Processes (Mt CO2e),WDI,Environmental_Indicators
+"Fish species, threatened",WDI,Environmental_Indicators
+Forest area (% of land area),WDI,Environmental_Indicators
+Forest area (sq. km),WDI,Environmental_Indicators
+Fossil fuel energy consumption (% of total),WDI,Environmental_Indicators
+GOAL 11: Sustainable Cities and Communities (5 year moving average),SPI,Environmental_Indicators
+GOAL 13: Climate Action (5 year moving average),SPI,Environmental_Indicators
+GOAL 15: Life on Land (5 year moving average),SPI,Environmental_Indicators
+GOAL 6: Clean Water and Sanitation (5 year moving average),SPI,Environmental_Indicators
+GOAL 7: Affordable and Clean Energy (5 year moving average),SPI,Environmental_Indicators
+Land area (sq. km),WDI,Environmental_Indicators
+Land area where elevation is below 5 meters (% of total land area),WDI,Environmental_Indicators
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,WDI,Environmental_Indicators
+"Mammal species, threatened",WDI,Environmental_Indicators
+Marine protected areas (% of territorial waters),WDI,Environmental_Indicators
+Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),WDI,Environmental_Indicators
+Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Agriculture (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Building (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Industrial Processes (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Transport (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Methane (CH4) emissions from Waste (Mt CO2e),WDI,Environmental_Indicators
+"Net bilateral aid flows from DAC donors, Finland (current US$)",WDI,Environmental_Indicators
+"Net bilateral aid flows from DAC donors, Iceland (current US$)",WDI,Environmental_Indicators
+"Net bilateral aid flows from DAC donors, Ireland (current US$)",WDI,Environmental_Indicators
+"Net bilateral aid flows from DAC donors, Netherlands (current US$)",WDI,Environmental_Indicators
+"Net bilateral aid flows from DAC donors, New Zealand (current US$)",WDI,Environmental_Indicators
+"Net bilateral aid flows from DAC donors, Poland (current US$)",WDI,Environmental_Indicators
+"Net bilateral aid flows from DAC donors, Switzerland (current US$)",WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),WDI,Environmental_Indicators
+Nitrous oxide (N2O) emissions from Waste (Mt CO2e),WDI,Environmental_Indicators
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",WDI,Environmental_Indicators
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",WDI,Environmental_Indicators
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",WDI,Environmental_Indicators
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",WDI,Environmental_Indicators
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",WDI,Environmental_Indicators
+Permanent cropland (% of land area),WDI,Environmental_Indicators
+"Plant species (higher), threatened",WDI,Environmental_Indicators
+Renewable electricity output (% of total electricity output),WDI,Environmental_Indicators
+Renewable energy consumption (% of total final energy consumption),WDI,Environmental_Indicators
+Renewable internal freshwater resources per capita (cubic meters),WDI,Environmental_Indicators
+"Renewable internal freshwater resources, total (billion cubic meters)",WDI,Environmental_Indicators
+Rural land area (sq. km),WDI,Environmental_Indicators
+Rural land area where elevation is below 5 meters (% of total land area),WDI,Environmental_Indicators
+Rural land area where elevation is below 5 meters (sq. km),WDI,Environmental_Indicators
+Safely Managed Drinking Water,SPI,Environmental_Indicators
+Terrestrial and marine protected areas (% of total territorial area),WDI,Environmental_Indicators
+Terrestrial protected areas (% of total land area),WDI,Environmental_Indicators
+Total greenhouse gas emissions excluding LULUCF (% change from 1990),WDI,Environmental_Indicators
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),WDI,Environmental_Indicators
+Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),WDI,Environmental_Indicators
+Total greenhouse gas emissions including LULUCF (Mt CO2e),WDI,Environmental_Indicators
+Total natural resources rents (% of GDP),WDI,Environmental_Indicators
+Urban land area (sq. km),WDI,Environmental_Indicators
+Urban land area where elevation is below 5 meters (% of total land area),WDI,Environmental_Indicators
+Urban land area where elevation is below 5 meters (sq. km),WDI,Environmental_Indicators
