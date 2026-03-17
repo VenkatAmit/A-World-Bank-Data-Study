@@ -20,3 +20,5 @@ venv/
 # IDE
 .vscode/
 .idea/
+.env
+.env
