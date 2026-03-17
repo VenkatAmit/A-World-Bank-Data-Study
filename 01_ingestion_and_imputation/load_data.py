@@ -23,7 +23,7 @@ import glob
 
 # ─── Database connection parameters ───────────────────────────────────────────
 DB_USER = "root"
-DB_PASSWORD = "***REMOVED***"
+DB_PASSWORD = os.getenv("DB_PASSWORD")
 DB_HOST = "localhost"
 DB_NAME = "worldbankfocused"
 

@@ -1,148 +1,160 @@
 # A-World-Bank-Data-Study
-Analysis of Economic Resilience, Social Equity, and Financial Systems Development
 
-Project Overview:
+> **Analysis of Economic Resilience, Social Equity, and Financial Systems Development**  
+> World Bank Open Data · 217 countries · 2021–2023
 
-This repository contains the code, data, and documentation for a comprehensive analysis of economic resilience, social equity, and financial systems development across countries using World Bank data from 2021 to 2023. The project employs advanced machine learning techniques to model and predict these three critical development indicators.
+---
 
-Authors: 
+## Authors
 
-Venkat Amit Kommineni,
-Rahul Preetham Roshan Parasa,
-Bala Rama Murthy Raju Vemanamanda,
-Venkata Sai Akshith Kumar Bathula
+| Name | Role |
+|------|------|
+| Venkat Amit Kommineni | Data Engineering, Modeling |
+| Rahul Preetham Roshan Parasa | Feature Engineering, EDA |
+| Bala Rama Murthy Raju Vemanamanda | Transformation, Financial Modeling |
+| Venkata Sai Akshith Kumar Bathula | Social Equity Modeling |
 
-Research Objectives:
+---
 
-Economic Resilience: Build and evaluate a binary classification model to identify countries as "Resilient" or "Not Resilient" based on economic indicators.
-Social Equity: Construct a normalized Social Equity Index and evaluate Ridge Regression and Artificial Neural Networks in predicting it.
-Financial Development: Design a Financial Development Index (FDI) and assess the predictive performance of Random Forest and XGBoost regression models.
+## Project Overview
 
-Data Sources:
-The analysis draws on several World Bank datasets:
+This repository contains the full end-to-end pipeline for a multi-domain World Bank data study. Using indicator data from 2021–2023, we build and evaluate machine learning models for three country-level targets:
 
-World Development Indicators (WDI)
-Quarterly Public Sector Debt Indicators
-Statistical Performance Indicators
+| Target | Type | Best Model |
+|--------|------|------------|
+| **Economic Resilience** | Binary classification (Resilient / Not Resilient) | Random Forest |
+| **Social Equity Index** | Regression | Ridge Regression + ANN |
+| **Financial Development Index (FDI)** | Regression | XGBoost + SHAP |
 
-Repository Structure:
+---
 
-├── Categorized series/          # Organized indicators by category
-├── Economic Resilience/         # Analysis files for Economic Resilience modeling
-├── FDI/                         # Files related to Financial Development Index
-├── Imputation folder/           # Scripts and data for handling missing values
-├── Initial Distributions/       # Analysis of data distributions before transformation
-├── Social Equity/               # Social Equity Index analysis and models
-├── Transformed data/            # Datasets after normalization and transformation
-├── Worlddevelopmentindicators.csv  # Main World Bank development indicators
-├── Quarterlypublicdebt.csv      # Quarterly public debt statistics
-└── Statisticalperformanceindicators.csv  # Statistical performance metrics
+## Repository Structure
 
-Methodology:
+```
+A-World-Bank-Data-Study/
+├── data/raw/                          # Raw World Bank CSVs (7 indicator files)
+│
+├── 01_ingestion_and_imputation/       # Data loading, cleaning, KNN imputation
+│   ├── load_data.py                   # Batch MySQL loader (batch size 1000)
+│   ├── data_split.py                  # Train/val/test split by country-year
+│   ├── Data_preprocessing_pipeline.ipynb
+│   └── Imputed_and_cleaned_data.csv
+│
+├── 02_initial_eda/                    # Exploratory data analysis
+│   ├── eda_analysis.ipynb             # Missing values, distributions, correlations
+│   ├── regional_coverage.png
+│   ├── regional_indicator_coverage.png
+│   └── economic_values_distribution.png
+│
+├── 03_feature_engineering/            # Feature matrix construction
+│   ├── feature_engineering.py         # Long→wide pivot, merge, derived ratios
+│   ├── Combined_Indicators_Data.csv
+│   └── [domain CSVs per indicator category]
+│
+├── 04_transformation/                 # Standardisation, encoding, pivot to model-ready format
+│   ├── Transformation_EDA_Models.ipynb
+│   └── pivoted_transformed_data.csv
+│
+├── 05_modeling_economic_resilience/   # Binary classification
+│   ├── Economic_Resilience.ipynb
+│   └── [PNGs: GDP trajectories, volatility, region boxplots]
+│
+├── 06_modeling_social_equity/         # Ridge Regression + ANN
+│   ├── Social_Equity.ipynb
+│   └── [PNGs: ridge path, feature importance, ANN training history]
+│
+├── 07_modeling_financial_development/ # XGBoost + SHAP
+│   ├── FDI.ipynb
+│   ├── FDI_SHAP_values.csv
+│   └── [PNGs: financial indicator trends]
+│
+├── requirements.txt
+└── README.md
+```
 
-Data Preprocessing & Imputation:
+---
 
-Records with >70% missingness were excluded
-KNN and linear interpolation were applied based on country-wise missing value percentages
-Final imputation was supplemented with series and year-wise mean values
+## Pipeline
 
-Transformation:
+```
+Raw CSVs (data/raw/)
+    │
+    ▼
+01  Ingest → standardise column names → melt wide→long
+    → KNN + Iterative imputation → data_split.py
+    │
+    ▼
+02  EDA → missing value heatmaps → distributions → correlation heatmaps
+    │
+    ▼
+03  Feature Engineering → pivot long→wide per domain
+    → outer-join all 6 domains on (country_code, year)
+    → drop >70% missing columns → ffill/bfill per country
+    → derive GDP per capita, Debt-to-GDP ratio features
+    │
+    ▼
+04  Transformation → StandardScaler → LabelEncoder
+    → pivot to final model-ready matrix
+    │
+    ▼
+05  Economic Resilience Model (Random Forest binary classifier)
+06  Social Equity Model (Ridge Regression + ANN)
+07  Financial Development Model (XGBoost + SHAP analysis)
+```
 
-Box-Cox transformation for strictly positive indicators
-Yeo-Johnson transformation for variables containing zeros or negative values
+---
 
-Feature Engineering:
+## Key Results
 
-Economic Resilience: Binary classification based on thresholded indicators
-Social Equity Index: Composite index formulation using normalized social indicators
-Financial Development Index: Constructed from financial depth, access, efficiency, and stability metrics
+### Economic Resilience (Binary Classification)
+- Random Forest outperformed Logistic Regression and SVM
+- Key features: GDP growth rate, current account balance, inflation volatility
+- Regional analysis shows Sub-Saharan Africa and South Asia with highest non-resilience rates
 
-Modeling Approach:
+### Social Equity Index (Regression)
+- Ridge Regression (alpha tuned via cross-validation) achieved lowest RMSE
+- ANN (3-layer MLP) converged after ~50 epochs; residuals approximately normal
+- Primary drivers: school enrollment (primary), access to clean water, GINI coefficient
 
-Economic Resilience: Logistic Regression with threshold optimization
-Social Equity: Ridge Regression and Artificial Neural Networks
-Financial Development: Random Forest and XGBoost
+### Financial Development Index (XGBoost + SHAP)
+- SHAP values identify broad money growth and bank capital-to-assets ratio as top predictors
+- FDI scores range 0–1; high-income OECD countries cluster near 0.8+
 
-Key Findings:
+---
 
-Economic Resilience:
+## Data Sources
 
-Model achieved 90% accuracy and 0.96 ROC-AUC
-Top predictive features: Electrical outages impact, Industrial design applications, Total reserves, Rule of Law, GDP growth
+| File | Description |
+|------|-------------|
+| Economic_Indicators.csv | GDP, inflation, trade, current account (annual) |
+| Environmental_Indicators.csv | CO2 emissions, forest area, energy use |
+| Public_Debt_Indicators.csv | Debt stocks and flows (quarterly) |
+| Social_Indicators.csv | Education, health, poverty, GINI |
+| Statistical_Indicators.csv | Data quality and coverage metadata |
+| Countries.csv | ISO country codes and region mapping |
+| Series.csv | Indicator metadata and definitions |
 
+Source: [World Bank Open Data](https://data.worldbank.org/) — data range 2021–2023.
 
-Social Equity:
+---
 
-Ridge Regression: R² score of 0.98, RMSE of 1.68
-ANN: R² score of 0.89, RMSE of 3.3
-Key factors: Gender equality, financial inclusion for the poorest 40%, access to basic services
+## Setup
 
+```bash
+git clone https://github.com/VenkatAmit/A-World-Bank-Data-Study.git
+cd A-World-Bank-Data-Study
+pip install -r requirements.txt
 
-Financial Development:
+# Run the full pipeline
+python 01_ingestion_and_imputation/load_data.py
+python 01_ingestion_and_imputation/data_split.py
+python 03_feature_engineering/feature_engineering.py
+# Then open notebooks in 04–07 sequentially
+```
 
-XGBoost outperformed with R² score of 0.905, RMSE of 2.33
-Critical features: Stock market activity, broad money growth, domestic credit access, bank stability
+---
 
+## Tech Stack
 
-Regional Patterns:
-
-East Asia & Pacific showed strongest performance across indicators
-Sub-Saharan Africa and South Asia displayed systematic challenges
-Central Asia demonstrated promising economic equality metrics despite other challenges
-
-
-
-Policy Implications: 
-
-For Enhancing Economic Resilience:
-
-Invest in foreign reserve buffers and maintain current account stability
-Strengthen rule of law and governance to build investor confidence
-Develop flexible labor markets and reduce unemployment through targeted training programs
-
-For Promoting Social Equity:
-
-Focus on gender-sensitive financial inclusion, including mobile money for the bottom 40%
-Prioritize rural infrastructure (electricity, clean cooking fuel, sanitation) to reduce rural-urban disparities
-Improve maternal healthcare and access to basic education
-
-For Developing Financial Systems:
-
-Expand banking infrastructure (ATMs and branches) to enhance financial access in underserved regions
-Promote capital market development through better regulation and financial literacy programs
-Strengthen financial stability through enhanced monitoring of non-performing loans and capital adequacy
-
-Required Libraries:
-
-pandas,
-numpy,
-scikit-learn,
-tensorflow,
-xgboost,
-matplotlib,
-seaborn,
-plotly,
-scipy,
-shap
-
-Future Work:
-
-Expand temporal analysis by incorporating data from additional years
-Explore ensemble stacking and time-series deep learning models
-Develop real-time dashboards for continuous monitoring
-Include additional qualitative indicators on governance and political stability
-
-Citation
-If you use this code or methodology in your research, please cite:
-
-Kommineni, V.A., Parasa, R.P.R., Vemanamanda, B.R.M., & Bathula, V.S.A.K. (2025). 
-Analysis of Economic Resilience, Social Equity, and Financial Systems Development: 
-A World Bank Data Study. California State University, Northridge.
-
-Acknowledgments
-
-California State University, Northridge
-Dr. Akash Gupta
-Professor Sheng, Qiuhua (Jessica)
-Professor Eslami, Seyed Pouyan
-World Bank for providing open access to development indicators
+`Python 3.10` · `pandas` · `numpy` · `scikit-learn` · `xgboost` · `shap`  
+`matplotlib` · `seaborn` · `plotly` · `MySQL` · `Google Colab`
