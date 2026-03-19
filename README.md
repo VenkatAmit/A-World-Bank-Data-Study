@@ -3,6 +3,18 @@
 > **Analysis of Economic Resilience, Social Equity, and Financial Systems Development**  
 > World Bank Open Data · 217 countries · 2021–2023
 
+## My Contribution
+
+| Area | Files |
+|------|-------|
+| Data ingestion pipeline | `01_ingestion_and_imputation/Data_preprocessing_pipeline.ipynb` |
+| Data splitting & normalization | `01_ingestion_and_imputation/data_split.py` |
+| MySQL batch loader | `01_ingestion_and_imputation/load_data.py` |
+| Feature engineering | `03_feature_engineering/feature_engineering.py` |
+| Financial Development modeling (XGBoost + SHAP) | `07_modeling_financial_development/FDI.ipynb` |
+
+
+
 ---
 
 ## Project Overview
@@ -126,6 +138,22 @@ Raw CSVs (data/raw/)
 Source: [World Bank Open Data](https://data.worldbank.org/) — data range 2021–2023.
 
 ---
+
+
+## Database Schema (MySQL — `worldbankfocused`)
+
+| Table | Primary Key | Rows (approx) | Description |
+|-------|-------------|---------------|-------------|
+| `countries` | `countrycode` | 217 | ISO country codes and names |
+| `series` | `seriescode` | ~1,500 | Indicator metadata + category |
+| `economicalindicators` | `countrycode, seriescode, Year` | ~120K | GDP, inflation, trade |
+| `financialindicators` | `countrycode, seriescode, Year` | ~95K | Credit, FDI, banking |
+| `socialindicators` | `countrycode, seriescode, Year` | ~110K | Health, education, poverty |
+| `environmentalindicators` | `countrycode, seriescode, Year` | ~40K | CO2, energy, land use |
+| `publicdebtindicators` | `countrycode, seriescode, Year, quarter` | ~717K | Quarterly debt stocks/flows |
+| `statisticalindicators` | `countrycode, seriescode, Year` | ~23K | Data quality metadata |
+
+Reference tables (`countries`, `series`) are loaded first; all indicator tables foreign-key on `countrycode` and `seriescode`.
 
 ## Setup
 

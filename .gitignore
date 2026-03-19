@@ -23,3 +23,6 @@ venv/
 .env
 .env
 .venv
+01_ingestion_and_imputation/Imputed_and_cleaned_data.csv
+01_ingestion_and_imputation/Imputed_and_cleaned_data_with_region.csv
+01_ingestion_and_imputation/imputed_data_less_than_70_missing.csv
