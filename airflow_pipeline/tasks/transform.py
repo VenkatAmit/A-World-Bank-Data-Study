@@ -125,7 +125,7 @@ def transform(**context):
         inplace=True
     )
 
-        # ── Completeness metrics ──────────────────────────────────
+    # ── Completeness metrics ──────────────────────────────────
     feature_cols = [c for c in wide.columns
                     if c not in ["country_code", "country_name", "year"]]
     wide["non_null_feature_count"] = wide[feature_cols].notna().sum(axis=1)
@@ -162,7 +162,9 @@ def transform(**context):
             return float(val)
         return val
 
-    cols = [
+    # ── Build insert column list dynamically ──────────────────
+    # We keep a preferred ordering but only include columns that exist.
+    preferred_order = [
         "country_code", "country_name", "year",
         "gdp_growth_pct", "gdp_current_usd", "gni_per_capita_usd",
         "inflation_pct", "current_account_pct_gdp", "fdi_net_inflows_pct_gdp",
@@ -174,6 +176,9 @@ def transform(**context):
         "non_null_feature_count", "completeness_pct",
         "pipeline_run_id", "loaded_at",
     ]
+
+    # Only keep columns that actually exist in the wide DataFrame
+    cols = [c for c in preferred_order if c in wide.columns]
 
     rows = []
     for row in wide.itertuples(index=False):
