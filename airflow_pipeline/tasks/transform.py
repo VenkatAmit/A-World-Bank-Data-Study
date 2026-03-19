@@ -125,13 +125,27 @@ def transform(**context):
         inplace=True
     )
 
-    # ── Completeness metrics ──────────────────────────────────
+        # ── Completeness metrics ──────────────────────────────────
     feature_cols = [c for c in wide.columns
                     if c not in ["country_code", "country_name", "year"]]
     wide["non_null_feature_count"] = wide[feature_cols].notna().sum(axis=1)
     wide["completeness_pct"] = (
         wide["non_null_feature_count"] / len(feature_cols) * 100
     ).round(2)
+
+    # ── Drop fully-null feature columns ───────────────────────
+    null_pcts = (wide[feature_cols].isnull().mean() * 100).round(2)
+    drop_cols = null_pcts[null_pcts == 100.0].index.tolist()
+    if drop_cols:
+        log.info(f"Dropping fully-null feature columns: {drop_cols}")
+        wide = wide.drop(columns=drop_cols)
+        feature_cols = [c for c in feature_cols if c not in drop_cols]
+
+        # Recompute completeness metrics after dropping empty features
+        wide["non_null_feature_count"] = wide[feature_cols].notna().sum(axis=1)
+        wide["completeness_pct"] = (
+            wide["non_null_feature_count"] / len(feature_cols) * 100
+        ).round(2)
 
     # ── Add pipeline observability columns ────────────────────
     wide["pipeline_run_id"] = run_id
