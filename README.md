@@ -5,17 +5,6 @@
 
 ---
 
-## Authors
-
-| Name | Role |
-|------|------|
-| Venkat Amit Kommineni | Data Engineering, Modeling |
-| Rahul Preetham Roshan Parasa | Feature Engineering, EDA |
-| Bala Rama Murthy Raju Vemanamanda | Transformation, Financial Modeling |
-| Venkata Sai Akshith Kumar Bathula | Social Equity Modeling |
-
----
-
 ## Project Overview
 
 This repository contains the full end-to-end pipeline for a multi-domain World Bank data study. Using indicator data from 2021–2023, we build and evaluate machine learning models for three country-level targets:
