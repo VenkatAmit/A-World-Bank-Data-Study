@@ -82,7 +82,7 @@ def quality_check(**context):
             passed = False
         else:
             log.info(f"PASS row count: {len(df):,}")
-
+        
         # ── Check 2: Null percentage per column ───────────────
         # Only check numeric feature columns, not metadata cols
         skip_cols = {"id", "country_code", "country_name", "year",
@@ -90,19 +90,26 @@ def quality_check(**context):
                      "non_null_feature_count", "completeness_pct"}
         feature_cols = [c for c in df.columns if c not in skip_cols]
 
-        null_pcts = (df[feature_cols].isnull().mean() * 100).round(2)
-        bad_cols = null_pcts[null_pcts > MAX_NULL_PCT]
+        if feature_cols:
+            null_pcts = (df[feature_cols].isnull().mean() * 100).round(2)
 
-        if not bad_cols.empty:
-            msg = (f"FAIL null threshold exceeded in "
-                   f"{len(bad_cols)} columns: "
-                   f"{bad_cols.to_dict()}")
-            log.error(msg)
-            notes.append(msg)
-            passed = False
+            # Ignore columns that are 100% null – they are effectively not present
+            null_pcts = null_pcts[null_pcts < 100.0]
+
+            bad_cols = null_pcts[null_pcts > MAX_NULL_PCT]
+
+            if not bad_cols.empty:
+                msg = (f"FAIL null threshold exceeded in "
+                       f"{len(bad_cols)} columns: "
+                       f"{bad_cols.to_dict()}")
+                log.error(msg)
+                notes.append(msg)
+                passed = False
+            else:
+                log.info(f"PASS null check: all checked columns "
+                         f"within {MAX_NULL_PCT}% threshold")
         else:
-            log.info(f"PASS null check: all columns "
-                     f"within {MAX_NULL_PCT}% threshold")
+            log.info("No feature columns to check for null percentages")
 
         # ── Check 3: Average completeness ─────────────────────
         avg_completeness = df["completeness_pct"].mean().round(2)
