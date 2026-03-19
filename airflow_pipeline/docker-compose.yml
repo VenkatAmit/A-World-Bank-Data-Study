@@ -14,7 +14,7 @@ x-airflow-common:
     PIPELINE_DB_NAME: ${PIPELINE_DB_NAME}
     PIPELINE_DB_HOST: ${PIPELINE_DB_HOST}
     PIPELINE_DB_PORT: ${PIPELINE_DB_PORT}
-    DATA_PATH: ${DATA_PATH}
+    DATAPATH: ${DATAPATH}
   volumes:
     - ./dags:/opt/airflow/dags
     - ./tasks:/opt/airflow/tasks
