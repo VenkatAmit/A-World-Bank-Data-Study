@@ -29,7 +29,7 @@ def get_pipeline_db_conn():
 def ingest(**context):
     start = time.time()
     run_id = context["run_id"]
-    data_path = os.environ["DATA_PATH"]
+    data_path = os.environ["DATAPATH"]
 
     log.info(f"Starting ingest | run_id={run_id} | source={data_path}")
 
