@@ -1,3 +1,11 @@
+## Successful run
+
+All 5 tasks completing in 3m 36s on 874K rows across 217 countries:
+
+![DAG success](dag_success.png)
+
+---
+
 # World Bank Data Pipeline — Airflow + PostgreSQL
 
 End-to-end data pipeline using Apache Airflow 2.8.1, orchestrating a
